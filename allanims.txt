@@ -1,4 +1,4 @@
-Here are all the animations that Clippy has that I know of (Not all may be vaild for use with Clippy Dialog Generator, As I don't update this repo.)
+Here are all the animations that Clippy has that I know of (Not all may be vaild for use with ClippyDialog, As I don't update this repo.)
 
 Alert
 CheckingSomething
