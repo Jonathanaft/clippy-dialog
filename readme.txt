@@ -1,4 +1,4 @@
-Here's how you use ClippyGenerator on a VirtualBox VM:
+Here's how you use ClippyDialog on a VirtualBox VM:
 (Windows XP with Microsoft Actor Required)
 1. First, install Guest Additions for Drag and Drop compatibility.
 2. Turn on Drag and Drop, Make it "Host To Guest" or "Bidirectional"
