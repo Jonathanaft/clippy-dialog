@@ -7,7 +7,7 @@ Here's how you use ClippyGenerator on a VirtualBox VM:
 5. Change the file extension of the .txt to .vbs
 6. Open File Explorer and go to the path: C:\WINDOWS\msagent\chars
 7. Download the .zip file format from https://archive.org/details/clippitMS
-8. Drag and Drop it to the path stated in step 6.
+8. Drag and Drop the file CLIPPIT.ACS that is in the .zip file to the path stated in step 6.
 9. Run the .vbs file and configure your dialog.
 10. Click OK on all  screens after typing what animation you want him to do and what you want him to say (leave blank for none)
 11. On  the final "Run Dialogue" Screen, Click OK.
