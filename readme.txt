@@ -12,4 +12,3 @@ Here's how you use ClippyDialog on a VirtualBox VM:
 10. Click OK on all  screens after typing what animation you want him to do and what you want him to say (leave blank for none)
 11. On  the final "Run Dialogue" Screen, Click OK.
 Congrats! Clippy now does what you want him to do
-You can use the file SampleEdition.vbs instead to get templates, It is the beta version of ClippyDialog
